@@ -136,8 +136,24 @@ section {
 @media (max-width: 768px) {
   .img-box {
     margin-bottom: 40px;
+    width: 200px;
+    height: 200px;
+  }
+  .skill-img{
+    transform: rotate(45deg) scale(0.85);
+  }
+  .diamond {
+    transform: rotate(45deg) scanle(0.85);
+    opacity: 0.3;
+  }
+  .d2 {
+    transform: rotate(45deg) translate(-30px, -30px) scale(0.85);
+  }
+  d3 {
+    transform: rotate(45deg) translate(30px, 30px) scale(0.85);
   }
 }
+  
 
 
 /* projects */
@@ -287,3 +303,4 @@ section {
 footer{
   background-color: #1c1c1c;
 }
+
