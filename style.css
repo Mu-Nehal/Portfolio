@@ -44,6 +44,12 @@ section {
   transform: scale(1.2);
 }
 
+@media (max-width: 768px) {
+  #home {
+    padding-top: 80px !important;
+  }
+}
+
 /* skills section */
 .skills-page{
   background: #080d14;
@@ -288,6 +294,7 @@ section {
 footer{
   background-color: #1c1c1c;
 }
+
 
 
 
