@@ -136,6 +136,7 @@ section {
 @media (max-width: 768px) {
   .img-box {
     margin-bottom: 40px;
+  }
 }
   
 
@@ -287,5 +288,6 @@ section {
 footer{
   background-color: #1c1c1c;
 }
+
 
 
